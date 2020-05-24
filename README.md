@@ -30,3 +30,5 @@ Secondary project, exposed in port __8082__.
 ### Using as demo
 1. Send a POST message to _http://localhost:8080/method1_ with a body similar to: _{"id":1, "name":"Name"}_
 1. Open a browser and go to _http://localhost:9411/zipkin/_
+
+![alt text](https://github.com/restalion/sleuth-zipkin-demo/blob/master/img/ZipkinFlow.png "Zipkin Flow")
